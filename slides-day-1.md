@@ -4,7 +4,6 @@ layout: section
 # Day 1 — Tuesday
 ## Introduction & Artistic Perspectives on Data
 
-
 ---
 
 # Welcome & introduction to the workshop
@@ -53,6 +52,8 @@ layout: two-cols
 * Technical support
 
 ### Day 5: Presentation & Reflection
+* Presentation of results
+* What worked, what was challenging?
 
 ---
 layout: center
@@ -81,7 +82,7 @@ layout: section
 
 ---
 layout: image-right
-image: https://julian.palacz.at/site/assets/files/1016/vogelspuren_im_schnee_1_kopie.1300x0.jpg
+image: https://julian.palacz.at/site/assets/files/1016/vogelspuren_im_schnee_1_kopie.jpg
 ---
 
 # Bewegungsstudie einer Computermaus
@@ -230,29 +231,36 @@ backgroundSize: contain
 ---
 
 ---
-layout: image-right
-image: https://little-boxes.palacz.at/assets/fluid-cities-BSGdmgzv.jpg
+layout: image-left
+image: https://julian.palacz.at/site/assets/files/1464/2022_09_19_bildrecht_00064-hdr_web.jpg
 ---
 
-# Little Boxes
+# Handle With Care & This Side Up
 
-Interactive installation and laser engraving series, exploring and reinterpreting European building floor plans through speculative data queries.
+A parcel equipped with a camera, microphone and sensors registers vibrations or changes of direction, filming views and insights into those transit spaces that otherwise remain hidden from the recipients.
 
-[Website](https://little-boxes.palacz.at)
+[Handle With Care](https://julian.palacz.at/handle-with-care/)
 
----
-layout: iframe
-url: https://eubucco.com
----
+[This Side Up](https://julian.palacz.at/this-side-up)
 
 ---
-layout: iframe
-url: https://little-boxes.palacz.at
+layout: image
+image: https://julian.palacz.at/site/assets/files/1422/werk14_palacz_max-1.jpg
+---
+
+---
+layout: image
+image: https://julian.palacz.at/site/assets/files/1422/210507_handle_with_care_c_lena_prehal_018.jpg
+---
+
+---
+layout: image
+image: https://julian.palacz.at/site/assets/files/1464/2022_09_19_bildrecht_00225_web.jpg
 ---
 
 ---
 layout: image-left
-image: https://julian.palacz.at/site/assets/files/1473/da-stehe-ich-nun.1300x0.png
+image: https://julian.palacz.at/site/assets/files/1473/da-stehe-ich-nun.png
 ---
 
 # Da stehe ich nun…
@@ -260,7 +268,6 @@ image: https://julian.palacz.at/site/assets/files/1473/da-stehe-ich-nun.1300x0.p
 »Da stehe ich nun…« uses AI to transform a database of public artworks in Vienna into a detective monologue, revealing hidden details and recontextualizing overlooked monuments
 
 [Website](https://julian.palacz.at/en/traces/da-stehe-ich-nun)
-
 
 ---
 layout: iframe
@@ -294,6 +301,25 @@ layout: section
 ## Artistic works dealing with data
 
 ---
+layout: image
+image: https://i0.wp.com/www.sensesatlas.com/wp-content/uploads/2020/04/12242020-e1587573136390.jpg?w=1734&ssl=1
+backgroundSize: contain
+title: Map of Vesuvius showing the direction of the streams of Lava in the Eruptions from 1631 AD. to 1831 AD. / John Auldjo / Napoli, Italia
+---
+
+---
+layout: image-right
+image: http://feltron.com/images/FAR06/06@2x.jpg
+---
+
+# Nicholas Felton
+## Annual Report
+
+A personal annual report was created to visualize and reflect on the past year, using data from various aspects of life.
+
+[Website](http://feltron.com/)
+
+---
 layout: image-left
 image: https://static.wixstatic.com/media/3e90e7_9b4e9a77610640a4872fb4c12f83ce47~mv2_d_3543_2408_s_4_2.jpg/v1/fill/w_1895,h_1288,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/3e90e7_9b4e9a77610640a4872fb4c12f83ce47~mv2_d_3543_2408_s_4_2.jpg
 ---
@@ -306,51 +332,21 @@ A public data sculpture was installed in Times Square, using metal poles to repr
 [Website](https://www.jerthorp.me/wewerestrangers)
 
 ---
-layout: iframe
-url: https://www.jerthorp.me/wewerestrangers
+layout: image
+image: https://static.wixstatic.com/media/3e90e7_9541c41d837e41ac8f351726294160ac~mv2_d_3861_2574_s_4_2.jpg/v1/fill/w_1137,h_758,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3e90e7_9541c41d837e41ac8f351726294160ac~mv2_d_3861_2574_s_4_2.jpg
 ---
-
----
-layout: image-right
-image: https://static.wixstatic.com/media/3e90e7_3ea1e5ae4eb147e3ab74f495e222747e~mv2.jpg/v1/fill/w_1236,h_820,al_c,q_85,enc_auto/3e90e7_3ea1e5ae4eb147e3ab74f495e222747e~mv2.jpg
----
-
-# Jer Thorp
-## 9/11 Memorial: Names Placement Algorithm
-
-An algorithm was developed to arrange nearly 3,000 victims' names on the 9/11 Memorial, honoring meaningful adjacencies requested by families.
-
-[Website](https://www.jerthorp.me/memorial)
 
 ---
 layout: image-left
-image: https://i0.wp.com/idsc.miami.edu/wp-content/uploads/2021/07/Santiago-Ortiz-940x530-red.jpg?w=940&ssl=1
+image: https://moebio.com/siteFiles/resources/images/mind.png
 ---
 
 # Santiago Ortiz
+## Look into the machine's mind
 
-- [Website](https://moebio.com/)
-- [Histomap Revisited](http://intuitionanalytics.com/other/histomap/)
-  - An interactive visualization was created to reinterpret historical timelines, offering a dynamic exploration of history.
-- [Look into the machine's mind](https://moebio.com/mind/)
-  - An interactive project was developed to visualize the inner workings of machine learning algorithms, providing insights into AI processes.
+An interactive project was developed to visualize the inner workings of machine learning algorithms, providing insights into AI processes.
 
----
-layout: image-right
-image: https://freight.cargo.site/w/720/q/94/i/e72c4a4ec91a2a2b358ee7e854a7a3342a06fbb0fc851cc54f68a5921bb0d87c/bike.gif
----
-
-# Tega Brain
-##  Unfit Bits
-
-A satirical toolkit was designed to generate fake fitness data, critiquing the reliance on personal data for insurance and health incentives.
-
-[Website](https://tegabrain.com/Unfit-Bits)
-
----
-layout: iframe
-url: https://tegabrain.com/Unfit-Bits
----
+[Website](https://moebio.com/mind/)
 
 ---
 layout: image-left
@@ -365,43 +361,8 @@ A physical installation was assembled to highlight datasets that are absent in d
 - [Website](https://mimionuoha.com/the-library-of-missing-datasets)
 
 ---
-layout: iframe
-url: https://mimionuoha.com/the-library-of-missing-datasets
----
-
----
-layout: image-right
-image: https://www.bitforms.art/wp-content/uploads/2020/02/rld_AMPU_CA_1_w.jpg
----
-
-# R. Luke DuBois
-## A More Perfect Union
-
-Maps were generated by analyzing 19 million online dating profiles, replacing city names with the most used words to reflect cultural identities.
-
-[Website](https://www.lukedubois.com/projects-2/perfect)
-
----
-layout: iframe
-url: https://player.vimeo.com/video/19662829?autoplay=false&muted=false&loop=false&byline=false&portrait=false&title=false
----
-
----
-layout: image-right
-image: https://mk.bcgsc.ca/pi/piday2025/posters/piday-2025-ttcagt-sequence-of-digits-midcentury.png
----
-
-# Martin Krzywinski
-
-  - [Pi Day Posters](https://mk.bcgsc.ca/pi/piday2015/posters.mhtml)
-    - Artistic posters were created to visualize the digits of Pi, blending mathematical precision with aesthetic design.
-
-  - [Max Cooper - Transcendental Tree Map](https://www.youtube.com/watch?v=O7bKq03bAsg)
-    - A music video was produced, visualizing complex data structures in harmony with electronic music.
-
----
-layout: iframe
-url: https://www.youtube.com/embed/O7bKq03bAsg?si=Yud6kIQeTkpS9FGR
+layout: image
+image: https://images.squarespace-cdn.com/content/v1/5147c437e4b096a97cf3defd/1501761850393-2BV1SI3XQQ2H5Q8DCGLC/170119_MODERNLUX_EYEBEAM-362.jpg?format=2500w
 ---
 
 ---
@@ -422,20 +383,8 @@ url: https://ig.ft.com/taiwan-battlegrounds/
 ---
 
 ---
-layout: image-right
-image: //images.ctfassets.net/z8v45sgwzha4/4kQgZrAkojhYVVMtUFpa0k/4ab01275724973956511975b5610d5f5/data1_SM1.jpeg
----
-
-# Mátyás Fusz & <br> Melinda Sipos
-## Growth Diagram
-
-A large-scale data sculpture was constructed to represent the evolution of the Museum of Ethnography's collection over 150 years.
-
-[Website](https://www.melindasipos.net/?/0/growth_diagram)
-
----
 layout: image-left
-image: https://images.ctfassets.net/z8v45sgwzha4/7xNYoNssw0ecYOoKWiYGum/23c71d69c6ac2469c2eea24d3c9c81ba/COKNOL_____Installationshots_Melinda_Sipos_____21_Jun_2018_____04______MG_5109.jpg
+image: https://images.ctfassets.net/z8v45sgwzha4/3mXy26A9zyWUws4kasqeWk/bad6ec56c3095dba702ecf76c07cc631/COKNOL_____Installationshots_Melinda_Sipos_____21_Jun_2018_____23______MG_5147.jpg
 ---
 
 # Melinda Sipos
@@ -446,11 +395,32 @@ An installation was created to visualize the high rate of medical interventions 
 [Website](https://www.melindasipos.net/?/7/almost_everyone)
 
 ---
+layout: image-right
+image: https://freight.cargo.site/w/720/q/94/i/e72c4a4ec91a2a2b358ee7e854a7a3342a06fbb0fc851cc54f68a5921bb0d87c/bike.gif
+---
+
+# Tega Brain
+##  Unfit Bits
+
+Unfit Bits offers everyday solutions to fitness tracking. It develops and provides simple techniques for generating active fitness data no matter what your lifestyle.
+
+Unfit Bits investigates DIY fitness spoofing techniques to allow you to create walking datasets without actually having to share your personal data. These techniques help produce personal datasets that will qualify you for insurance rewards even if you can't afford a high exercise lifestyle.
+
+[Website](https://tegabrain.com/Unfit-Bits)
+
+---
+layout: iframe
+url: https://tegabrain.com/Unfit-Bits
+---
+
+---
 layout: section
 ---
 
 # Break (1h)
 
+---
+layout: center
 ---
 
 # Data completion round

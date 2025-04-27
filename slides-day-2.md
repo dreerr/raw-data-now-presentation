@@ -37,30 +37,30 @@ layout: two-cols
 
 # Planning
 
-- Develop your research question
-- Get or create your data
+- **Develop your research question**
+- **Get or create your data**
   - [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [JSON](https://themanoftalent.medium.com/a-step-by-step-guide-to-learning-json-27e507f7c6f), [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), [GPKG](https://www.geopackage.org), [SQL](https://en.wikipedia.org/wiki/SQL), etc.
-- Clean your data
+- **Clean your data**
   - Removing unnecessary variables
   - Deleting duplicate rows/observations
   - Dealing with missing values
   - Standardizing or categorizing values
-- Choose the chart type
+- **Choose the chart type**
   - How variables compare to each other?
   - Relationships between variables?
   - Patterns in the data?
 
 ::right::
 
-- Choose your tool
-- Prepare data
+- **Choose your tool**
+- **Prepare data**
   - Format columns appropriately
   - Convert values into appropriate units
   - Filter your data
   - Group data and create aggregate values for groups
   - Extract values from complex columns
   - Combine variables to create new columns
-- Create chart
+- **Create chart**
   - Import data into the software
   - Select the chart type you wish to create
   - Evaluate the effectiveness of the chart
@@ -152,6 +152,8 @@ layout: intro
   - What tools do you want to use?
   - What are your next steps?
 
+---
+layout: intro
 ---
 
 # Feedback round

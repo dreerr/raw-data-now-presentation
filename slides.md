@@ -2,6 +2,7 @@
 title: RAW DATA NOW!
 mdc: true
 author: Julian Palacz
+titleTemplate: '%s'
 layout: intro
 ---
 
@@ -11,6 +12,7 @@ layout: intro
 
 Julian Palacz / 29.04 – 04.05.2024
 
+*University of Applied Arts Vienna / Institute of Design*
 
 <div class="flex gap-8">
 
