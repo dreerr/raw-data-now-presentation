@@ -21,7 +21,7 @@ image: https://clauswilke.com/dataviz/cover.png
 backgroundSize: contain
 ---
 
-# Data Visualization
+# What is data visualization?
 
 [Claus O. Wilke – Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 
@@ -35,10 +35,11 @@ backgroundSize: contain
 layout: two-cols
 ---
 
-# Data Visualization Planning
+# Planning
 
 - Develop your research question
 - Get or create your data
+  - [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [JSON](https://themanoftalent.medium.com/a-step-by-step-guide-to-learning-json-27e507f7c6f), [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), [GPKG](https://www.geopackage.org), [SQL](https://en.wikipedia.org/wiki/SQL), etc.
 - Clean your data
   - Removing unnecessary variables
   - Deleting duplicate rows/observations
@@ -69,7 +70,7 @@ layout: two-cols
 layout: two-cols
 ---
 
-# Data Visualization Tools
+# Tools & Resources
 
 - **RAWGraphs**
   - [What is RAWGraphs? Our approach to data visualization](https://www.rawgraphs.io/learning/what-is-rawgraphs-our-approach-to-data-visualization)
@@ -120,12 +121,28 @@ layout: section
 layout: intro
 ---
 
+# Game: Invent a Crazy Dataset
+
+In pairs or small groups:
+- Invent a dataset that does not exist yet but should!
+
+Examples:
+- Dataset of forgotten birthday gifts
+- Dataset of moon-gazing minutes
+- Dataset of socks lost in washing machines
+
+**Outcome:** Quick creative thinking!
+
+---
+layout: intro
+---
+
 # Group work
 ## Research, retrieve and explore datasets
 
 **Main objectives:**
 
-- Form groups of 3-4 people
+- Form groups of max. 5 people
 - Select a dataset
 - Formulate a research question or theme
 - Prepare a short presentation (5-10 min) of your project idea
