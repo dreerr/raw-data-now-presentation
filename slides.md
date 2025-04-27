@@ -47,10 +47,12 @@ layout: center
 
 # **All day (hands-on work)**
 - Introduction: What are generative AI APIs? (OpenAI, Replicate, Hugging Face)
-- Technical support: API keys, prompts, TTS, etc.
+- Technical support: Concept, Programming, API keys, prompts, etc.
 - Focus: How can interventions make data poetic, narrative or critical?
 - Continued project development with mentoring & feedback
 
+---
+layout: section
 ---
 
 # Day 4 – Friday
@@ -68,13 +70,20 @@ layout: center
 - Optional check-ins, otherwise open workspace
 
 ---
+layout: section
+---
 
 # Day 5 – Saturday
 ## Presentation & Reflection
 
+---
+layout: center
+---
+
+# **All day (hands-on work)**
 - Finalising projects or prototypes
 - Last technical assistance & polish
 - Presentation of results
 	- Small exhibition, performances, demos, etc.
 - Group feedback: What worked, what was challenging?
-- Final discussion: How can these projects continue? (Publication, exhibition, etc.)
+- Final discussion: How can these projects continue?
