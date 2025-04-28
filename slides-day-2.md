@@ -11,9 +11,9 @@ layout: intro
 
 # Recap Day 1
 ## What stuck with you?
+## What is missing?
 ## Inspirations?
 ## Questions?
-## What is missing?
 
 ---
 layout: image-right
@@ -39,27 +39,28 @@ layout: two-cols
 
 - **Develop your research question**
 - **Get or create your data**
-  - [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [JSON](https://themanoftalent.medium.com/a-step-by-step-guide-to-learning-json-27e507f7c6f), [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), [GPKG](https://www.geopackage.org), [SQL](https://en.wikipedia.org/wiki/SQL), etc.
-- **Clean your data**
+  - [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [JSON](https://themanoftalent.medium.com/a-step-by-step-guide-to-learning-json-27e507f7c6f), [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), [GPKG](https://www.geopackage.org), [SQL](https://en.wikipedia.org/wiki/SQL), [SQLite](https://www.sqlite.org/howitworks.html), etc.
+- **Clean and prepare your data**
   - Removing unnecessary variables
   - Deleting duplicate rows/observations
   - Dealing with missing values
   - Standardizing or categorizing values
+  - Format columns appropriately
+  - Convert values into appropriate units
+  - Filter your data
+  - Extract values from complex columns
+  - Combine variables to create new columns
+
+::right::
+
+- **Choose the right tools**
+  - What is the goal of your visualization?
+  - Who is your audience?
+  - How will they use the visualization?
 - **Choose the chart type**
   - How variables compare to each other?
   - Relationships between variables?
   - Patterns in the data?
-
-::right::
-
-- **Choose your tool**
-- **Prepare data**
-  - Format columns appropriately
-  - Convert values into appropriate units
-  - Filter your data
-  - Group data and create aggregate values for groups
-  - Extract values from complex columns
-  - Combine variables to create new columns
 - **Create chart**
   - Import data into the software
   - Select the chart type you wish to create
@@ -121,36 +122,44 @@ layout: section
 layout: intro
 ---
 
-# Game: Invent a Crazy Dataset
-
-In pairs or small groups:
-- Invent a dataset that does not exist yet but should!
-
-Examples:
-- Dataset of forgotten birthday gifts
-- Dataset of moon-gazing minutes
-- Dataset of socks lost in washing machines
-
-**Outcome:** Quick creative thinking!
+# Let’s Get Started
+## Build Your Data Project
 
 ---
-layout: intro
+layout: two-cols
 ---
 
-# Group work
-## Research, retrieve and explore datasets
+## Step 1: Idea Speed Dating
 
-**Main objectives:**
+- Everyone brainstorms 2–3 rough ideas or interests (datasets, topics, tools you want to explore)
+- 5-minute speed rounds: Form round of 3–4 people
+  - Each person has 1 minute to pitch their idea
+  - After 3 minutes, switch partners
+- Take notes: Which ideas resonate with you? Who shares your interests?
 
-- Form groups of max. 5 people
-- Select a dataset
-- Formulate a research question or theme
-- Prepare a short presentation (5-10 min) of your project idea
-  - What dataset did you choose?
-  - What is your research question?
-  - How do you want to visualize the data?
-  - What tools do you want to use?
-  - What are your next steps?
+
+## Step 2: Form Your Crew
+
+- Find people you clicked with or who liked similar ideas
+- Groups of **max. 5** people
+
+::right::
+
+## Step 3: Your Mission
+
+Each group creates a mini project plan:
+
+- **Topic or theme:** What moves you?
+- **Dataset:** What existing data can you use? Or do you want to collect your own?
+- **Question:** What do you want to find out, show, criticize, imagine?
+- **First sketch:** Rough idea of a visualization or data artwork
+
+Prepare a **short informal presentation** (5–10 min):
+
+- What data did you choose?
+- What is your research question?
+- How do you want to visualize the data?
+- What are your next steps?
 
 ---
 layout: intro

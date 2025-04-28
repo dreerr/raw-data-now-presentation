@@ -34,7 +34,6 @@ layout: two-cols
 * Data completion round
 * Activity: Data Experiment
 * Data Aesthetics – What Makes it Beautiful?
-* Forming groups
 
 ::right::
 
@@ -45,10 +44,10 @@ layout: two-cols
 * Tools & Resources
 * Datasets
 * Game: Invent a Crazy Dataset
+* Focus: How can interventions make data poetic, narrative or critical?
 
 ### Day 3 & 4: Hands-on Development
 * Introduction: What are generative AI APIs?
-* Focus: How can interventions make data poetic, narrative or critical?
 * Technical support
 
 ### Day 5: Presentation & Reflection
@@ -245,6 +244,11 @@ A parcel equipped with a camera, microphone and sensors registers vibrations or 
 
 ---
 layout: image
+image: https://julian.palacz.at/site/assets/files/1422/julian_palacz_-_handle_with_care_-_still_4.jpg
+---
+
+---
+layout: image
 image: https://julian.palacz.at/site/assets/files/1422/werk14_palacz_max-1.jpg
 ---
 
@@ -431,16 +435,17 @@ Everyone briefly introduces themselves and their interests
 - I want to learn more about…
 - Generally I am really good at…
 
+**Additionally**, please complete your information in the [shared folder](https://base.uni-ak.ac.at/cloud/index.php/f/21006623).
+
 ---
 
-# Activity: Data Experiment
+# Data Experiment
 
-**Mini-mission:**
-
-- In small groups, collect **5 minutes** of live data from the room.
+### Mission
+- Team up with your neighbor and collect **5 minutes** of live data from the room.
 - Examples:
   - How many items are blue?
-  - How many times does someone smile in 5 minutes?
+  - How many times does someone clear one's throat in 5 minutes?
   - Average number of tabs open on laptops
 
 Then quickly sketch how you would visualize it!
@@ -454,12 +459,15 @@ layout: image-right
 image: https://iibawards-prod.s3.amazonaws.com/projects/images/000/007/554/page.png?1741621446
 ---
 
-# Data Aesthetics – What Makes it Beautiful?
+# Steal Like an Artist
 
-### [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/showcase)
+## [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/showcase)
 
-Each group picks 2–3 visualizations from the links above and analyze them through the following lenses:
-  - *Form* – What visual metaphors or design principles are used?
-  - *Function* – Is it clear? Informative? Overwhelming?
-  - *Feeling* – What emotion or atmosphere does it evoke?
-  - *Fiction* – Could this visualization also be a *story* or *artwork*?
+Each group picks 1–2 visualizations they **love**.
+
+### Your Mission:
+- What design trick would you steal?
+- Which elements would you adapt?
+- How would you remix it into your own data project?
+
+*Optional*: Sketch or note your favorite "stolen idea"!
