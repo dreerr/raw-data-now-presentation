@@ -4,7 +4,7 @@ This repository contains the slides and materials for the "RAW DATA NOW" worksho
 
 ## Getting Started
 
-The slides are built using [Slidev](https://slidev.dev/), an open-source presentation tool for developers.
+The slides are built using [Slidev](https://sli.dev/), an open-source presentation tool for developers.
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (version 20 or higher)

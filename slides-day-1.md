@@ -362,7 +362,7 @@ image: https://images.squarespace-cdn.com/content/v1/5147c437e4b096a97cf3defd/15
 
 A physical installation was assembled to highlight datasets that are absent in data-driven societies, emphasizing systemic neglect and bias.
 
-- [Website](https://mimionuoha.com/the-library-of-missing-datasets)
+[Website](https://mimionuoha.com/the-library-of-missing-datasets)
 
 ---
 layout: image
@@ -380,6 +380,7 @@ image: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fig
 This project examines the key battlegrounds that could shape a potential US-China conflict over Taiwan. It explores five military contests that would likely define the outcome of such conflict.
 
 [Website](https://ig.ft.com/taiwan-battlegrounds/)
+[Visual and data journalism - Financial Times](https://www.ft.com/visual-and-data-journalism)
 
 ---
 layout: iframe
