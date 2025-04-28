@@ -121,7 +121,7 @@ image: https://julian.palacz.at/site/assets/files/1029/palacz\-\-\-end-tell-cove
 
 # END TELL
 
-A software keylogger recorded every keystroke on a private computer, resulting in END TELL – a digital self-portrait that transforms raw computer data into artistic and literary expression.
+A software keylogger recorded every keystroke on my home computer, resulting in END TELL – a digital self-portrait that transforms raw computer data into artistic and literary expression.
 
 [Website](https://julian.palacz.at/en/traces/end-tell)
 
