@@ -33,7 +33,7 @@ layout: two-cols
 * Inspirations & Examples of others
 * Data completion round
 * Activity: Data Experiment
-* Data Aesthetics – What Makes it Beautiful?
+* Activity: Steal Like an Artist
 
 ::right::
 
@@ -44,7 +44,7 @@ layout: two-cols
 * Tools & Resources
 * Datasets
 * Game: Invent a Crazy Dataset
-* Focus: How can interventions make data poetic, narrative or critical?
+* Build Your Data Project
 
 ### Day 3 & 4: Hands-on Development
 * Introduction: What are generative AI APIs?

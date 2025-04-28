@@ -12,7 +12,7 @@ layout: intro
 
 Julian Palacz / 29.04 – 04.05.2024
 
-*University of Applied Arts Vienna / Institute of Design*
+*University of Applied Arts Vienna / Institute of Design – Design and narrative Media*
 
 <div class="flex gap-8">
 
