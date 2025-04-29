@@ -43,7 +43,6 @@ layout: two-cols
 * Planning
 * Tools & Resources
 * Datasets
-* Game: Invent a Crazy Dataset
 * Build Your Data Project
 
 ### Day 3 & 4: Hands-on Development
@@ -466,7 +465,7 @@ image: https://iibawards-prod.s3.amazonaws.com/projects/images/000/007/554/page.
 
 Each group picks 1–2 visualizations they **love**.
 
-### Your Mission:
+### Mission:
 - What design trick would you steal?
 - Which elements would you adapt?
 - How would you remix it into your own data project?
