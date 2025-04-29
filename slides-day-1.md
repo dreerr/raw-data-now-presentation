@@ -85,7 +85,7 @@ image: https://julian.palacz.at/site/assets/files/1016/vogelspuren_im_schnee_1_k
 
 # Bewegungsstudie einer Computermaus
 
-A program records cursor movements without context, resulting in unexpectedly expressive patterns – like bird tracks in snow – that reflect the complexity, unpredictability, and individuality of our actions and intentions.
+A program records cursor movements, resulting in unexpectedly expressive patterns – like bird tracks in snow – that reflect the complexity, unpredictability, and individuality of our actions and intentions.
 
 [Website](https://julian.palacz.at/en/traces/bewegungsstudie-einer-computermaus)
 
