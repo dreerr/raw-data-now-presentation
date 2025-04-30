@@ -76,13 +76,21 @@ layout: two-cols
 - **RAWGraphs**
   - [What is RAWGraphs? Our approach to data visualization](https://www.rawgraphs.io/learning/what-is-rawgraphs-our-approach-to-data-visualization)
   - [Create data visualizations: RAWGraphs in 8 minutes (Michele Mauri)](https://www.youtube.com/watch?v=Yfac2CZJrP0)
+- **Datawrapper**
+  - [Datawrapper Website](https://www.datawrapper.de/)
+- **Flourish**
+  - [Flourish Website](https://flourish.studio/)
+- **Data Illustrator**
+  - [Data Illustrator Tutorial](https://data-illustrator.cs.umd.edu/tutorial.php)
+- **Kepler**
+  - [Kepler.gl](https://kepler.gl/)
+
+::right::
+
 - **Microsoft Excel**
   - [How to Build Data Visualizations in Excel: Evergreen Data](https://stephanieevergreen.com/how-to/)
 - **Microsoft Power BI**
   - [Power BI Workshop: Baylor University](https://libguides.baylor.edu/c.php?g=1056212&p=7673553)
-
-::right::
-
 - **Python**
   - [Matplotlib](https://matplotlib.org/stable/gallery/index)
   - [Plotly](https://plotly.com/python/getting-started/)
@@ -93,7 +101,6 @@ layout: two-cols
     - [Hierarchical Edge Bundling](https://observablehq.com/@d3/hierarchical-edge-bundling)
   - [MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/API/)
 - **R**
-  - [ggplot2](https://ggplot2.tidyverse.org/)
   - [plotly](https://plotly.com/r/)
 
 ---
@@ -111,6 +118,21 @@ The official portal for European data
 
 ## [Google Dataset Search](https://datasetsearch.research.google.com)
 Google's Dataset Search is a search engine for datasets. It enables users to find datasets stored across the web.
+
+---
+layout: center
+---
+
+# Exercise – Pick a Tool & Play
+
+Learn the basic principles of chart visualization
+
+### Steps:
+1. Pick a tool (e.g., RAWGraphs, Datawrapper, Excel, etc.)
+2. Pick a dataset (e.g., [data.gv.at](http://data.gv.at), [Google Dataset Search](https://datasetsearch.research.google.com), etc.) or use the classroom dataset
+3. Create a chart or visualization
+
+Work alone or in pairs
 
 ---
 layout: section
@@ -132,7 +154,7 @@ layout: two-cols
 ## Step 1: Idea Speed Dating
 
 - Everyone brainstorms 2–3 rough ideas or interests (datasets, topics, tools you want to explore)
-- 5-minute speed rounds: Form round of 3–4 people
+- 5-minute speed rounds: Form round of 3 people
   - Each person has 1 minute to pitch their idea
   - After 3 minutes, switch partners
 - Take notes: Which ideas resonate with you? Who shares your interests?
@@ -141,17 +163,18 @@ layout: two-cols
 ## Step 2: Form Your Crew
 
 - Find people you clicked with or who liked similar ideas
-- Groups of **max. 5** people
+- Groups of **max. 4** people
 
 ::right::
 
-## Step 3: Your Mission
+## Step 3: Mission
 
 Each group creates a mini project plan:
 
 - **Topic or theme:** What moves you?
 - **Dataset:** What existing data can you use? Or do you want to collect your own?
 - **Question:** What do you want to find out, show, criticize, imagine?
+- **Moodboard:** What is the style of your project? What do you want to achieve?
 - **First sketch:** Rough idea of a visualization or data artwork
 
 Prepare a **short informal presentation** (5–10 min):
