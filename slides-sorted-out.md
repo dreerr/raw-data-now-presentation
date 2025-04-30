@@ -54,7 +54,6 @@ layout: iframe
 url: https://player.vimeo.com/video/19662829?autoplay=false&muted=false&loop=false&byline=false&portrait=false&title=false
 ---
 
-
 # Game: Invent a Crazy Dataset
 
 In pairs or small groups:
@@ -64,8 +63,6 @@ Examples:
 - Dataset of forgotten birthday gifts
 - Dataset of moon-gazing minutes
 - Dataset of socks lost in washing machines
-
-**Outcome:** Quick creative thinking!
 
 ---
 layout: intro

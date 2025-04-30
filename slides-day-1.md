@@ -168,19 +168,6 @@ A small program scans 10 years of emails for the words “I,” “You,” “He
 [Website](https://julian.palacz.at/en/traces/ich-du-er-sie-es)
 
 ---
-layout: image-left
-image: https://julian.palacz.at/site/assets/files/1345/palacz_-_text_messages_im_studio.jpg
----
-
-# Text Messages
-
-A decade of collected text messages become fragmentarily visible in a UHD video.
-
-[Video](https://cloud.palacz.at/s/y2CJ89EyzN56yiK?dir=/&openfile=true)
-
-[Website](https://julian.palacz.at/en/traces/text-messages)
-
----
 layout: image-right
 image: https://julian.palacz.at/site/assets/files/1039/palacz_-_surveillance_studies_6538.jpg
 ---
@@ -210,6 +197,19 @@ image: https://julian.palacz.at/site/assets/files/1039/dsc_0090.1300x0.jpg
 layout: image
 image: https://julian.palacz.at/site/assets/files/1039/dsc_0098_editedweb.jpg
 ---
+
+---
+layout: image-left
+image: https://julian.palacz.at/site/assets/files/1345/palacz_-_text_messages_im_studio.jpg
+---
+
+# Text Messages
+
+A decade of collected text messages become fragmentarily visible in a UHD video.
+
+[Video](https://cloud.palacz.at/s/y2CJ89EyzN56yiK?dir=/&openfile=true)
+
+[Website](https://julian.palacz.at/en/traces/text-messages)
 
 ---
 layout: image-right
@@ -287,14 +287,14 @@ layout: center
 layout: center
 ---
 
-# Flash Exercise: Data Diary
+# Exercise: Data Diary
 
-**Write for 3 minutes:**
+**Write for 5 minutes:**
 - "Today, my data trail would show that I..."
 - "My most invisible data is..."
 - "If someone hacked my phone today, they would know that..."
 
-**Optional sharing:** volunteers can read 1 surprising sentence.
+**Optional sharing:** volunteers can read one or more sentences.
 
 ---
 layout: section
@@ -338,6 +338,18 @@ A public data sculpture was installed in Times Square, using metal poles to repr
 layout: image
 image: https://static.wixstatic.com/media/3e90e7_9541c41d837e41ac8f351726294160ac~mv2_d_3861_2574_s_4_2.jpg/v1/fill/w_1137,h_758,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3e90e7_9541c41d837e41ac8f351726294160ac~mv2_d_3861_2574_s_4_2.jpg
 ---
+
+---
+layout: image-right
+image: https://static.wixstatic.com/media/3e90e7_3ea1e5ae4eb147e3ab74f495e222747e~mv2.jpg/v1/fill/w_1236,h_820,al_c,q_85,enc_auto/3e90e7_3ea1e5ae4eb147e3ab74f495e222747e~mv2.jpg
+---
+
+# Jer Thorp
+## 9/11 Memorial: Names Placement Algorithm
+
+An algorithm was developed to arrange nearly 3,000 victims' names on the 9/11 Memorial, honoring meaningful adjacencies requested by families.
+
+[Website](https://www.jerthorp.me/memorial)
 
 ---
 layout: image-left
@@ -400,6 +412,18 @@ An installation was created to visualize the high rate of medical interventions 
 
 ---
 layout: image-right
+image: //images.ctfassets.net/z8v45sgwzha4/4kQgZrAkojhYVVMtUFpa0k/4ab01275724973956511975b5610d5f5/data1_SM1.jpeg
+---
+
+# Mátyás Fusz & <br> Melinda Sipos
+## Growth Diagram
+
+A large-scale data sculpture was constructed to represent the evolution of the Museum of Ethnography's collection over 150 years.
+
+[Website](https://www.melindasipos.net/?/0/growth_diagram)
+
+---
+layout: image-right
 image: https://freight.cargo.site/w/720/q/94/i/e72c4a4ec91a2a2b358ee7e854a7a3342a06fbb0fc851cc54f68a5921bb0d87c/bike.gif
 ---
 
@@ -455,6 +479,21 @@ Then quickly sketch how you would visualize it!
 - Be sure to collect the data in a way that you can analyze it later.
 
 ---
+layout: center
+---
+
+# Invent a Crazy Dataset
+
+In pairs or small groups:
+- Invent a dataset that does not exist yet but should!
+
+Examples:
+- Dataset of forgotten birthday gifts
+- Dataset of moon-gazing minutes
+- Dataset of socks lost in washing machines
+
+
+---
 layout: image-right
 image: https://iibawards-prod.s3.amazonaws.com/projects/images/000/007/554/page.png?1741621446
 ---
@@ -463,7 +502,7 @@ image: https://iibawards-prod.s3.amazonaws.com/projects/images/000/007/554/page.
 
 ## [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/showcase)
 
-Each group picks 1–2 visualizations they **love**.
+Each student picks one visualizations they **love** and presents it to the class.
 
 ### Mission:
 - What design trick would you steal?
