@@ -104,8 +104,7 @@ layout: two-cols
   - [plotly](https://plotly.com/r/)
 
 ---
-layout: image-right
-image: https://www.viadonau.org/fileadmin/_processed_/2/6/csm_PET_F_MB_20180125_dd3548ecee.jpg
+layout: two-cols
 ---
 
 # Datasets
@@ -118,6 +117,41 @@ The official portal for European data
 
 ## [Google Dataset Search](https://datasetsearch.research.google.com)
 Google's Dataset Search is a search engine for datasets. It enables users to find datasets stored across the web.
+
+::right::
+
+## [Kulturpool](https://www.kulturpool.at/)
+Kulturpool is a platform that provides access to a wide range of cultural heritage data, including images, texts, and audio files.
+
+## [Europeana](https://www.europeana.eu/en)
+Europeana is a digital platform that provides access to millions of digitized items from European cultural heritage institutions.
+
+## [ÖNB Labs](https://labs.onb.ac.at/)
+The ÖNB Labs is a platform for research and development projects that use the library's digital collections.
+
+---
+
+# Data Experiment (Revisited)
+
+### Mission
+- Team up with your neighbor and collect **5 minutes** of live data from the room.
+- Examples:
+  - How many items are blue?
+  - How many times does someone clear one's throat in 5 minutes?
+  - Average number of tabs open on laptops
+
+Then quickly sketch how you would visualize it!
+
+**Important:**
+- Can be done analog or digitally
+- Be sure to collect the data in a way that you can analyze it later.
+
+---
+layout: section
+---
+
+# Break (1h)
+## Lunch
 
 ---
 layout: center
@@ -133,12 +167,6 @@ Learn the basic principles of chart visualization
 3. Create a chart or visualization
 
 Work alone or in pairs
-
----
-layout: section
----
-
-# Break (1h)
 
 ---
 layout: intro
@@ -177,10 +205,10 @@ Each group creates a mini project plan:
 - **Moodboard:** What is the style of your project? What do you want to achieve?
 - **First sketch:** Rough idea of a visualization or data artwork
 
-Prepare a **short informal presentation** (5–10 min):
+Prepare a **short informal presentation** for tomorrow (5–10 min):
 
 - What data did you choose?
-- What is your research question?
+- What is your artistic/research question?
 - How do you want to visualize the data?
 - What are your next steps?
 
